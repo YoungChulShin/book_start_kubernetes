@@ -1,1 +1,2 @@
-# book_start_kubernetes
+# 저장소 설명
+`시작하세요 쿠버네티스` 책 실습 저장소
